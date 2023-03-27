@@ -1,1 +1,2 @@
-#WRITE YOUR CODE HERE
+def addCheck(x, y, z):
+    
